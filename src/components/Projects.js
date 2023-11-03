@@ -1,9 +1,12 @@
 import React, { useContext } from "react";
 import { Contexts } from "../context/Contexts";
 import { projectsDataEng } from "../data/ProjectsDataEng";
+import { projectsDataTr } from "../data/ProjectsDataTr";
+
 const Projects = () => {
-  const projectList = projectsDataEng();
-  const { textData } = useContext(Contexts);
+  const { textData, lang } = useContext(Contexts);
+  const projectList = lang === "tr" ? projectsDataTr() : projectsDataEng();
+
   return (
     <div name={textData.nav4}>
       <div className="bg-gradient-to-b from-gray-800 to-black w-full text-white md:h-screen">

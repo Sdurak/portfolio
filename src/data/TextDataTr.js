@@ -16,11 +16,15 @@ export const textDataTr = {
   preferredRole: "Fullstack, UI.",
   profileHeader: "Hakkında",
   profileParagraph1:
-    "Ben Segah. Ankara Üniversitesi Jeoloji Mühendisliği 2014 mezunuyum. Alanımın bir parçası olan inşaat sektörü yol yapımında kalite kontrolde ve maliyet planlamada mühendis olarak görev aldım. 6 yıl kadar bu sektörde çalıştıktan sonra, Türkiye’deki yazılım açığını, özellikle kadın sayısının az oluşu, farkederek bu sektöre yönelmek istedim.",
+    "Ben Segah. Ankara Üniversitesi Jeoloji Mühendisliği 2014 mezunuyum. Alanımın bir parçası olan inşaat sektörü yol yapımında kalite kontrolde ve maliyet planlamada mühendis olarak görev aldım. 6 yıl kadar bu sektörde çalıştıktan sonra, Türkiye’deki yazılım açığını ve özellikle kadın sayısının az oluşunu fark ederek bu sektöre yönelmek istedim.",
   profileParagraph2:
     "Böylelikle 6 aylık full stack program olan yazılım kursuna başlamış oldum. Burada JavaScript, ReactJs, Html, CSS, NodeJs, Redux, Redux-Toolkit, SQL, SQLite ve Java, IntelliJ gibi bazı frameworkler, kütüphaneler ve yazılım dillerini öğrendim. Takım çalışmasına uyumlu, problem çözebilen, çalışma arkadaşlarımla düzgün bir şekilde iletişime geçen, özellikle çalıştığım sektörle ilgili yeni bilgiler öğrenmeyi seven biriyimdir. Bundan sonraki hedefim bu zorlu macerada, teknik bilgilerim ve çalışma yeteneklerimi birleştirerek, yazılım alanında kendimi geliştirerek yükselmektir.",
   skillsHeader: "Yetenekler",
   projectsHeader: "Projeler",
   contactHeader: "İletişim",
   contactParagraph: "Benimle iletişime geçmek için aşağıdaki formu doldurun.",
+  contactButton: "Bana ulaşın!",
+  contactPlaceHolder: "İsminizi girin",
+  contactPlaceHolder2: "Mailinizi girin",
+  contactPlaceHolder3: "Mesajınızı girin",
 };

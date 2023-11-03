@@ -23,4 +23,8 @@ export const textDataEng = {
   projectsHeader: "Projects",
   contactHeader: "Contact",
   contactParagraph: "Submit the form below to get in touch with me",
+  contactButton: "Let's talk!",
+  contactPlaceHolder: "Enter your name",
+  contactPlaceHolder2: "Enter your email",
+  contactPlaceHolder3: "Enter your message",
 };
